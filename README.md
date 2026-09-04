@@ -8,6 +8,7 @@ This repository stores VS Code extensions (.vsix).
 - **File**: `anthropic.claude-code-2.1.260-win32-x64.vsix`
 - **Version**: 2.1.260
 - **Platform**: Windows x64 (`win32-x64`)
+- **Direct Download**: [Download v2.1.260 VSIX](https://github.com/how0531/vsix/releases/download/v2.1.260/anthropic.claude-code-2.1.260-win32-x64.vsix)
 
 ## How to Install
 
