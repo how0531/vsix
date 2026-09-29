@@ -9,10 +9,10 @@ Due to GitHub repository file size limits and optimal bandwidth, extension binar
 ### 1. Anthropic Claude Code
 - **Publisher**: Anthropic
 - **Extension Name**: Claude Code for VS Code
-- **Version**: 2.1.280
+- **Version**: 2.1.284
 - **Platform**: Windows x64 (`win32-x64`)
-- **Direct Download**: [Download anthropic.claude-code-2.1.280-win32-x64.vsix](https://github.com/how0531/vsix/releases/download/v2.1.280/anthropic.claude-code-2.1.280-win32-x64.vsix)
-- **Release Page**: [Release v2.1.280](https://github.com/how0531/vsix/releases/tag/v2.1.280)
+- **Direct Download**: [Download anthropic.claude-code-2.1.284-win32-x64.vsix](https://github.com/how0531/vsix/releases/download/v2.1.284/anthropic.claude-code-2.1.284-win32-x64.vsix)
+- **Release Page**: [Release v2.1.284](https://github.com/how0531/vsix/releases/tag/v2.1.284)
 
 ### 2. OpenAI ChatGPT (Codex)
 - **Publisher**: OpenAI
@@ -44,7 +44,7 @@ Due to GitHub repository file size limits and optimal bandwidth, extension binar
 ### Method 2: Command Line
 ```bash
 # Install Claude Code
-code --install-extension anthropic.claude-code-2.1.280-win32-x64.vsix
+code --install-extension anthropic.claude-code-2.1.284-win32-x64.vsix
 
 # Install ChatGPT (Codex)
 code --install-extension openai.chatgpt-26.721.30844-win32-x64.vsix
